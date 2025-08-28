@@ -85,6 +85,11 @@
 .banner{
     padding: 30px;
     left: 20px;
+    position: relative;
+}
+
+.itens-banner img{
+    left: 30px;
 }
 
 
